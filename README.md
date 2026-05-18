@@ -1,0 +1,1 @@
+# tugas-struktur-data-N-Queen-
